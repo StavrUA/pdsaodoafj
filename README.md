@@ -1,6 +1,6 @@
-# -
+# 
 
-Посилання (іконки):
+
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Varenychek_profile-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Varenychek_profile)
 [![Instagram](https://img.shields.io/badge/Instagram-@stavr.uk-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stavr.uk)
